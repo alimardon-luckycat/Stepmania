@@ -219,4 +219,4 @@ Stepmania is offered as a complete free version, providing all features and upda
 Ready to take your dancing skills to the next level? Download Stepmania now and enjoy the fun!
 
 ---
-**Last updated:** 2026-09-26 14:08:37 UTC
+**Last updated:** 2026-09-26 18:21:14 UTC
